@@ -1,8 +1,8 @@
 # What it is about
 
-This the list of websites people are procrastinating at. Use this list to enter and block these websites with various blockers including Windows parental controls, Apple Screentime and with anti-procrastination tools and plugins.
+This the list of websites people are procrastinating at. Use this list to enter and block these websites with various blockers including Windows parental controls, Apple Screentime and with anti-procrastination tools and plugins. The lists of websites are below.
 
-# Blocking websites on Windows
+# How to blocking websites on Windows
 
 ### Windows Parental control
 
@@ -32,7 +32,7 @@ Check [How to tutorial](https://helpdeskgeek.com/how-to/block-websites-using-hos
 
 - TBD
 
-# Lists
+# Lists of websites
 
 - [social-networking-sites](social-networking-sites.md)
 - [memes-sites](memes-sites.md)
