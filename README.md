@@ -4,10 +4,6 @@ This the list of websites people are procrastinating at. Use this list to enter 
 
 # How to blocking websites on Windows
 
-### Windows Parental control
-
-- [setting up parental controls on Windows 10](https://www.windowscentral.com/how-protect-little-ones-windows-defender-and-parental-controls)
-
 ### System level (works for all Windows versions from Windows XP to Windows 10)
 
 Edit `c:\windows\system32\drivers\etc\hosts.txt` (in `As Administrator` mode) and add lines with websites like 
@@ -17,7 +13,12 @@ Edit `c:\windows\system32\drivers\etc\hosts.txt` (in `As Administrator` mode) an
 127.0.0.1 youtube.com
 ```
 
-Check [How to tutorial](https://helpdeskgeek.com/how-to/block-websites-using-hosts-file/) for details.
+Here is [the list with all websites that you can copy and paste from](hosts.txt)
+
+Check [How to update hosts file on Windows](https://helpdeskgeek.com/how-to/block-websites-using-hosts-file/) for details.
+
+If you are not an experienced user please check Parenal Controls. [Tutorial for Windows 10](https://www.windowscentral.com/how-protect-little-ones-windows-defender-and-parental-controls)
+
 
 ### Apple devices (Mac, Macbook, iPad, iPhone) 
 
@@ -43,6 +44,10 @@ Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](h
 - [sites-video.txt](sites-video.txt)
 - [sites-gaming.txt](sites-gaming.txt)
 
-# Contribute
+# How to contribute
 
-Please сontribute more sites and make pull requests
+- add websites to lists
+- run `bash generate.sh` to clean and combine all lists into `sites-all.txt` and into `hosts.txt`
+- commit and create a pull request 
+
+If you are adding new list, please update `generate.sh`

@@ -5,7 +5,7 @@ www.instagram.com
 snapchat.com
 www.snapchat.com
 snap.com
-www.snapc.com
+www.snap.com
 linkedin.com
 www.linkedin.com
 reddit.com
@@ -15,5 +15,5 @@ www.vk.com
 vk.ru
 www.vk.ru
 news.ycombinator.com
-
-
+producthunt.com
+www.producthunt.com
