@@ -1,0 +1,10 @@
+facebook.com
+instagram.com
+snapchat.com
+snap.com
+linkedin.com
+reddit.com
+vk.com
+vk.ru
+news.ycombinator.com
+digg.com
