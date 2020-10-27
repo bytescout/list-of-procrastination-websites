@@ -15,5 +15,5 @@ www.vk.com
 vk.ru
 www.vk.ru
 news.ycombinator.com
-digg.com
-www.digg.com
+
+
