@@ -22,7 +22,9 @@ Check [How to tutorial](https://helpdeskgeek.com/how-to/block-websites-using-hos
 ### Apple devices (Mac, Macbook, iPad, iPhone) 
 
 - [Mac OSX desktop computers](https://support.apple.com/en-us/HT210387)
-- [iOS devices (iPhone, iPad)(https://support.apple.com/en-us/HT208982)
+- [iOS devices (iPhone, iPad](https://support.apple.com/en-us/HT208982)
+
+Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](https://bytescout.com/blog/bypass-screen-time-on-ipad-or-7-hacks-found-by-kids-to-walkaround-apples-parent-control.html)
 
 ### Ubuntu 
 
