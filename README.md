@@ -44,10 +44,10 @@ Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](h
 - [sites-video.txt](sites-video.txt)
 - [sites-gaming.txt](sites-gaming.txt)
 
-# How to contribute
+# Contribute
 
 - add websites to lists
-- run `bash generate.sh` to clean and combine all lists into `sites-all.txt` and into `hosts.txt`
+- add new lists into `/lists` folder. Name like this `sites-{category}` where category is the category of these websites.
+- add websites without `www.` domains as `www.` versions are added automatically by the script
+- finally run `bash generate.sh` to combine and compile all lists into final lists: `sites-all.txt` and `hosts.txt`
 - commit and create a pull request 
-
-If you are adding new list, please update `generate.sh`
