@@ -37,12 +37,11 @@ Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](h
 
 # Lists of websites
 
-- [sites-all.txt](sites-all.txt)
-- [sites-social-networking.txt](sites-social-networking-sites.txt)
-- [sites-memes.txt](sites-memes.txt)
-- [sites-news.txt](sites-news.txt)
-- [sites-video.txt](sites-video.txt)
-- [sites-gaming.txt](sites-gaming.txt)
+Final lists:
+- [sites-all.txt](sites-all.txt) - final list with websites from all categories
+- [hosts.txt](hosts.txt) - final list ready to be copied and pasted into `hosts` file on Windows
+
+Source lists are in [this folder](/lists)
 
 # Contribute
 
@@ -51,3 +50,12 @@ Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](h
 - add websites without `www.` domains as `www.` versions are added automatically by the script
 - finally run `bash generate.sh` to combine and compile all lists into final lists: `sites-all.txt` and `hosts.txt`
 - commit and create a pull request 
+
+# Authors
+
+Eugene Mi https://github.com/emirn
+
+Sponsors: 
+
+- [ByteScout - AI powered tools for data extraction](https://bytescout.com)
+- [PDF.co - API platform for data extraction and pdf](https://pdf.co)
