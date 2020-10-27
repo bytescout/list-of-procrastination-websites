@@ -37,9 +37,9 @@ Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](h
 # Lists of websites
 
 - [sites-social-networking.txt](sites-social-networking-sites.txt)
-- [memes-sites.txt](sites-memes.txt)
-- [news-sites.txt](sites-news.txt)
-- [gaming-sites.txt](sites-gaming.txt)
+- [sites-memes.txt](sites-memes.txt)
+- [sites-news.txt](sites-news.txt)
+- [sites-gaming.txt](sites-gaming.txt)
 
 # Contribute
 
