@@ -9,10 +9,6 @@
 127.0.0.1 www.TechCrunch.com
 127.0.0.1 aliexpress.com
 127.0.0.1 www.aliexpress.com
-127.0.0.1 amazon.com
-127.0.0.1 www.amazon.com
-127.0.0.1 amazon.in
-127.0.0.1 www.amazon.in
 127.0.0.1 bbc.com
 127.0.0.1 www.bbc.com
 127.0.0.1 bongacams.com
@@ -39,8 +35,6 @@
 127.0.0.1 www.craigslist.org
 127.0.0.1 deviantart.com
 127.0.0.1 www.deviantart.com
-127.0.0.1 ebay.com
-127.0.0.1 www.ebay.com
 127.0.0.1 edition.cnn.com
 127.0.0.1 www.edition.cnn.com
 127.0.0.1 engadget.com
@@ -51,8 +45,6 @@
 127.0.0.1 www.foxnews.com
 127.0.0.1 funnyordie.com
 127.0.0.1 www.funnyordie.com
-127.0.0.1 goodreads.com
-127.0.0.1 www.goodreads.com
 127.0.0.1 hbomax.com
 127.0.0.1 www.hbomax.com
 127.0.0.1 hulu.com
@@ -129,6 +121,8 @@
 127.0.0.1 www.twitch.tvdigg.com
 127.0.0.1 twitter.com
 127.0.0.1 www.twitter.com
+127.0.0.1 vice.comebay.com
+127.0.0.1 www.vice.comebay.com
 127.0.0.1 vimeo.com
 127.0.0.1 www.vimeo.com
 127.0.0.1 vk.com

@@ -19,3 +19,4 @@ engadget.com
 lifehacker.com
 nytimes.com
 sfgate.com
+vice.com

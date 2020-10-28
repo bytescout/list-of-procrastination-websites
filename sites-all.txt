@@ -8,10 +8,6 @@ TechCrunch.com
 www.TechCrunch.com
 aliexpress.com
 www.aliexpress.com
-amazon.com
-www.amazon.com
-amazon.in
-www.amazon.in
 bbc.com
 www.bbc.com
 bongacams.com
@@ -38,8 +34,6 @@ craigslist.org
 www.craigslist.org
 deviantart.com
 www.deviantart.com
-ebay.com
-www.ebay.com
 edition.cnn.com
 www.edition.cnn.com
 engadget.com
@@ -50,8 +44,6 @@ foxnews.com
 www.foxnews.com
 funnyordie.com
 www.funnyordie.com
-goodreads.com
-www.goodreads.com
 hbomax.com
 www.hbomax.com
 hulu.com
@@ -128,6 +120,8 @@ twitch.tvdigg.com
 www.twitch.tvdigg.com
 twitter.com
 www.twitter.com
+vice.comebay.com
+www.vice.comebay.com
 vimeo.com
 www.vimeo.com
 vk.com
