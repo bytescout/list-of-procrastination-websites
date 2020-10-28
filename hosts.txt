@@ -59,8 +59,6 @@
 127.0.0.1 www.knowyourmeme.com
 127.0.0.1 lifehacker.com
 127.0.0.1 www.lifehacker.com
-127.0.0.1 linkedin.com
-127.0.0.1 www.linkedin.com
 127.0.0.1 livejasmin.com
 127.0.0.1 www.livejasmin.com
 127.0.0.1 livejournal.com
