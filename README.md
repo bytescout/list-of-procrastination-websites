@@ -2,44 +2,58 @@
 
 This the list of websites people are procrastinating at. Use this list to enter and block these websites with various blockers including Windows parental controls, Apple Screentime and with anti-procrastination tools and plugins. The lists of websites are below.
 
-# How to blocking websites on Windows
+# How to block websites
 
-### System level (works for all Windows versions from Windows XP to Windows 10)
+### Windows (for all apps, works for Windows XP to Windows 10)
 
-Edit `c:\windows\system32\drivers\etc\hosts.txt` (in `As Administrator` mode) and add lines with websites like 
+- In Windows search toolbar type `Notepad`
+- `Notepad` will appear in the list of apps
+- Right-click on `Notepad` and select `Run as Administrator`. This will run Notepad app
+- Select `File` and `Open` 
+- Select `All Files` in File Types
+- Enter `c:\windows\system32\drivers\etc\hosts` in the filename and click `Open`
+- This `hosts` file will look something like this:
 
 ```
-127.0.0.1 facebook.com
-127.0.0.1 youtube.com
+# websites
+11.22.33.44 somesite.com
+...
+...
 ```
 
-Here is [the list with all websites that you can copy and paste from](hosts.txt)
+- Open [the list of all websites compiled by this tool](https://raw.githubusercontent.com/bytescout/list-of-procrastination-websites/main/hosts.txt) in a separate window
+- Copy all lines
+- Switch to Notepad and paste lines below the existing content
+- Use `File` and `Save` in the menu in Notepad to save updated `hosts` file 
+- Congratulations! Now all the websites from the list are blocked on your computer 
 
-Check [How to update hosts file on Windows](https://helpdeskgeek.com/how-to/block-websites-using-hosts-file/) for details.
+Another tutorial on changing `c:\windows\system32\drivers\etc\hosts` file: [How to update hosts file on Windows](https://helpdeskgeek.com/how-to/block-websites-using-hosts-file/) for details.
 
-If you are not an experienced user please check Parenal Controls. [Tutorial for Windows 10](https://www.windowscentral.com/how-protect-little-ones-windows-defender-and-parental-controls)
-
+Alternatively, if you are not an experienced user, you may want to use Windows 10 built-in Parental Controls and add websites to be blocked manually. Here is the [tutorial](https://www.windowscentral.com/how-protect-little-ones-windows-defender-and-parental-controls)
 
 ### Apple devices (Mac, Macbook, iPad, iPhone) 
 
-- [Mac OSX desktop computers](https://support.apple.com/en-us/HT210387)
-- [iOS devices (iPhone, iPad](https://support.apple.com/en-us/HT208982)
+- Run Screentime settings on [Mac OSX desktop computers](https://support.apple.com/en-us/HT210387) or [iOS devices (iPhone, iPad](https://support.apple.com/en-us/HT208982)
+- In `Content & Privacy Restrictions` - `Content Restrictions` go to `Web Content` and change to `Limit Adult Websites`
+- Manually add websites from [sites-all.txt] into the list of blocked websites 
 
-Blocking from Kids? Beware of [various ways kids are hacking Apple Screentime](https://bytescout.com/blog/bypass-screen-time-on-ipad-or-7-hacks-found-by-kids-to-walkaround-apples-parent-control.html)
+Setting up Screentime on iPhone or iPad that is used by kids? Beware of [ways kids use to hack Apple Screentime](https://bytescout.com/blog/bypass-screen-time-on-ipad-or-7-hacks-found-by-kids-to-walkaround-apples-parent-control.html)
 
 ### Ubuntu 
 
-- [Setting app Parental controls and blocking websites](https://help.ubuntu.com/community/ParentalControls#Do_It_Yourself_Allow-listing)
+- Set app [Parental controls and blocking websites](https://help.ubuntu.com/community/ParentalControls#Do_It_Yourself_Allow-listing)
+- Use [sites-all.txt] to add websites to the list of blocked websites
 
 ### Android
 
 - TBD
 
-# Lists of websites
+# Lists of websites to block
 
 Final lists:
-- [sites-all.txt](sites-all.txt) - final list with websites from all categories
-- [hosts.txt](hosts.txt) - final list ready to be copied and pasted into `hosts` file on Windows
+
+- [sites-all.txt](sites-all.txt) - final list with all websites from all categories
+- [hosts.txt](hosts.txt) - final list with websites to block, ready to to copy and paste into `c:\Windows\system32\drivers\etc\hosts` file on Windows
 
 Source lists are in [this folder](/lists)
 
